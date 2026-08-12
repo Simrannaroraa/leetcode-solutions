@@ -7,7 +7,7 @@ public:
             if(count!=0) break;
         }
         else count++;
-        cout<<count;
+        
        } 
     return count;
     }
