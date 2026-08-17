@@ -13,8 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Array
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
