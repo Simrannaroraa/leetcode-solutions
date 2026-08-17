@@ -12,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
