@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool isMonotonic(vector<int>& nums) {
+        int n=nums.size();
+        bool dec=true;
+        bool inc=true;
+        for(int i=0;i<n-1;i++){
+                if(nums[i]<nums[i+1]){
+                    dec=false;
+                }else if(nums[i]>nums[i+1]){
+                    inc=false;
+                }
+            
+        }
+        return inc||dec;
+    }
+};
