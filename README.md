@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
