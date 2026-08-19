@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1386-cinema-seat-allocation](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
