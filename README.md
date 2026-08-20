@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Simrannaroraa/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
